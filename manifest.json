@@ -1,0 +1,16 @@
+{
+  "name": "Shadow Tarot — Tarot de Marseille",
+  "short_name": "Shadow Tarot",
+  "description": "Ton oracle personnel : tirages, lectures divinatoires, journal et fil du destin.",
+  "start_url": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D0A1A",
+  "theme_color": "#0D0A1A",
+  "lang": "fr",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
